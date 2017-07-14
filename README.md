@@ -1,0 +1,1 @@
+QSML Plugin Skeleton
